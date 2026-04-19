@@ -21,6 +21,3 @@ Coins and Pickups: Coins and Pickups to make gameplay feel fun.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ![Screenshot (1513)](https://github.com/striderzz/2D-platformer/assets/72110940/86828c36-c457-438c-a09d-abff34692e71)
-
-
-
